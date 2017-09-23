@@ -14,7 +14,6 @@ Jinja2==2.8
 jsondatabase==0.1.7
 jsonpatch==1.10
 jsonpointer==1.9
-language-selector==0.1
 line-bot-sdk==1.4.0
 MarkupSafe==0.23
 nltk==3.2.4
