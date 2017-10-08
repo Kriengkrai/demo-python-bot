@@ -255,7 +255,7 @@ def handle_beacon(event):
         event.reply_token,
         TextSendMessage(text='Got beacon event. hwid=' + event.beacon.hwid))
 
-		if __name__ == "__main__":
+if __name__ == "__main__":
     arg_parser = ArgumentParser(
         usage='Usage: python ' + __file__ + ' [--port <port>] [--help]'
     )
