@@ -10,7 +10,7 @@ Flask==0.12.3
 future==0.16.0
 idna==2.0
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.8.1
 jsondatabase==0.1.7
 jsonpatch==1.10
 jsonpointer==1.9
